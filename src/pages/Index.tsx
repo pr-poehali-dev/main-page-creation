@@ -87,10 +87,7 @@ const Index = () => {
               </div>
             </div>
 
-            <Button className="bg-gradient-to-r from-yellow-600 to-yellow-500 hover:from-yellow-700 hover:to-yellow-600 text-black font-bold px-8 py-4 text-lg rounded-lg">
-              ОСТАВИТЬ ЗАЯВКУ НА РАСЧЕТ СМЕТЫ
-              <Icon name="ArrowRight" className="ml-2" size={20} />
-            </Button>
+            <Button className="bg-gradient-to-r from-yellow-600 to-yellow-500 hover:from-yellow-700 hover:to-yellow-600 text-black font-bold px-8 py-4 text-lg rounded-lg">Скачать презентацию</Button>
           </div>
 
           <Card className="bg-black/80 border-gray-700 backdrop-blur-sm">
