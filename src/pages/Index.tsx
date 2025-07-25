@@ -92,7 +92,7 @@ const Index = () => {
 
           <Card className="bg-black/80 border-gray-700 backdrop-blur-sm">
             <CardContent className="p-8">
-              <h3 className="text-2xl font-bold mb-2">Скачать презентацию</h3>
+              <h3 className="text-2xl font-bold mb-2">ОСТАВИТЬ ЗАЯВКУ НА РАСЧЕТ СМЕТЫ</h3>
               <p className="text-gray-400 mb-6">Задайте вопросы нам онлайн</p>
               
               <form className="space-y-4">
